@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
   $('button').on('click', function() {
-    var a = 1;
+    var a = "tadaa";
     alert(a);
   });
 

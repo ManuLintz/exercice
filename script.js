@@ -1,3 +1,8 @@
-  $("#button").click(function(){
-    alert("This app is awesome!");
-  })
+dy(function(){
+
+  $('button').on('click', function() {
+    var a = 1;
+    alert(a);
+  });
+
+});

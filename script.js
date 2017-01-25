@@ -1,5 +1,3 @@
-
-Bje ne comprend pas 
-B
-dd
-
+  $("#button").click(function(){
+    alert("This app is awesome!");
+  })
